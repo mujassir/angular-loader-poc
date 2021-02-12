@@ -1,0 +1,19 @@
+
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    thead{
+        tr{
+            td, th{
+                font-weight: bold;
+                background-color: #EFEFEF;
+            }
+        }
+    }
+
+    td{
+        padding: 2px 5px;
+        border: 1px solid #CCC;
+    }
+}
